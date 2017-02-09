@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "mkdir -p build; cp index.js build; tar czf build.tgz build"
+  }
+}
