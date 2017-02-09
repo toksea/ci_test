@@ -1,6 +1,7 @@
 # production
 *.tgz
 /build
+/bin
 
 # Logs
 logs
